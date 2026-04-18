@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with **5+ 
 - 📚 Learning advanced frontend architectures, performance optimization, and modern design patterns
 - 👥 Looking to collaborate on open-source projects and innovative web solutions
 - 💬 Ask me about **React.js, Next.js, Vue.js, Responsive Design, UI/UX, Performance Optimization, or Frontend Architecture**
-- 📧 How to reach me: **rehmanqayyoum1@gmail.com** | **+92 301 4022328** | [LinkedIn](https://www.linkedin.com/in/rehman-qayyoum-52425b1b6/)
+- 📧 How to reach me: **rehmanqayyoum1@gmail.com** | [LinkedIn](https://www.linkedin.com/in/rehman-qayyoum-52425b1b6/)
 - 😊 Pronouns: **He/Him**
 - ⚡ Fun fact: I love optimizing web performance and creating pixel-perfect responsive designs!
 
