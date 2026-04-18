@@ -35,10 +35,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with **5+ 
 ## 🌟 Core Competencies
 Software Development Lifecycle | UI Components | New Feature Engineering | User-Centric Designs | System Performance Enhancement | CI/CD | Quality Code Review | Front-End Architecture | A/B Testing | Load Time Reduction | Responsive Design | Cross-Browser Compatibility | Web Accessibility | Design-to-Code Conversion
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmanqayyoum&show_icons=true&theme=radical)
-
 ## 🌐 Languages
 
 - **English** - Fluent
